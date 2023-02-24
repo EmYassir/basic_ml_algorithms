@@ -14,4 +14,4 @@ This folder contains the implementation of some popular machine learning and dee
 - Linear classifiers: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/LC.ipynb)]
 - RNN: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/RNN.ipynb)]
 - Transformer: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/Trans.ipynb)]
-- GAN: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/GAN.ipynb)]
+- GAN/Auto-encoder: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/GAN_AE.ipynb)]
