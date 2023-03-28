@@ -6,7 +6,7 @@ This folder contains the implementation of some popular machine learning and dee
 - KNN: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/KNN.ipynb)]
 - KNN/Parzen: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/KNN_PARZEN.ipynb)]
 - SVM: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/SVM.ipynb)]
-- Naive Bayes: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/NB.ipynb)]
+- Naive Bayes: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/NAIVE_BAYES.ipynb)]
 - Kernel Perceptron: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/KP.ipynb)]
 - Decision tree/Random forest: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/DT_RF.ipynb)]
 - Multi-layer perceptron: [[source code](https://github.com/EmYassir/basic_ml_algorithms/blob/main/MLP.ipynb)]
